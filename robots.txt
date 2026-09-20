@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://optima.webart.work/sitemap.xml
