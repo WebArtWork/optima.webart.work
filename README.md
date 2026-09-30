@@ -19,3 +19,6 @@ Optima Collection Kamianets-Podilsky is a modern city hotel with 38 rooms, locat
 - Phone: +380 67 570 65 49
 - Address: vul. Starobulvarna, 2, Kamianets-Podilsky, 32301
 - Website/booking: optima.webart.work. The page links to optimahotels.com.ua as the hotel's official booking site for room availability and pricing; optimahotels.com.ua is known to be the real official website of the Optima Hotels group.
+
+## Forms
+Live forms send requests to HotelOS (hotelId `kp-optima`): `stay-request`, `conference-request`, `event-request` (banquet hall), `sauna-request`. Phone is the only required field.
